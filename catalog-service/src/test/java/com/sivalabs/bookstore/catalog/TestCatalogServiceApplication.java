@@ -1,4 +1,4 @@
-package com.sivalabs.catalog_service;
+package com.sivalabs.bookstore.catalog;
 
 import org.springframework.boot.SpringApplication;
 
